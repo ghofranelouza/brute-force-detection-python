@@ -66,3 +66,8 @@ Use this tool only with logs you own or are authorized to analyze. The sample lo
 ## Author
 
 GitHub: https://github.com/ghofranelouza
+## Detection Demo
+
+The following screenshot shows the detector identifying repeated failed login attempts from a suspicious IP address using fictional log data.
+
+![Brute Force Detection Alert](detection-alert.png)
